@@ -1,0 +1,1 @@
+console.log("realizar el compare y pull desde la consola de GIT")
